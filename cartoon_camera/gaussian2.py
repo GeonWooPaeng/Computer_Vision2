@@ -1,3 +1,5 @@
+# sigma 값을 다르게 했을 때 블러가 어떻게 되는 것인지 보여주는 곳
+
 import sys
 import numpy as np
 import cv2
